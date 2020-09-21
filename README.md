@@ -17,7 +17,7 @@ Escribir un programa que dado un número de `n` dígitos lo imprima al reves (ut
 #### Constraints  
 
 ```cpp
-No utizar etiquetas
+No utilizar etiquetas
 ```
 
 #### Output Format
