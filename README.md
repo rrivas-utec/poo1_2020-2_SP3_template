@@ -59,7 +59,7 @@ Diseñar un programa que determine de `n` números el mayor de todos, el program
 ```
 Constraints
 ```cpp
-No debe utilizarse etiquetas (`std::cout`) para ingresar los valores
+No debe utilizarse etiquetas (std::cout) para ingresar los valores
 ```
 Output Format
 ```cpp
@@ -194,7 +194,7 @@ x x x x x
 # # # # # # # #
 ```
 
-## Ejercicio #5 - Minima multiplicación
+## Ejercicio #5 - Mínima multiplicación
 
 ### Problem Statement
 Diseñe la función `minima_multiplicación` que cuente la cantidad de veces que se debe multiplicar sus digitos para obtener un número de un solo digito y que lo retorne como un valor entero.
