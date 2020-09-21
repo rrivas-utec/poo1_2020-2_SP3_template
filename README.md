@@ -2,7 +2,7 @@
 
 Ejercicios sobre estructuras de control repetitivas del curso de programación orientada a objetos 1 (CS1102).
 
-## Ejercicio #1 - Numero al reves  
+## Ejercicio #1 - Número al reves  
 
 ### Problem Statement  
 
