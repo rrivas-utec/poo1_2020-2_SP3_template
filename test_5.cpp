@@ -14,6 +14,10 @@ TEST_CASE("Ejercicio #5") {
     ifstream file("test_5.in");
     int n = 0;
     int result = 0;
+    file >> n;
+    result = minima_multiplicacion(n);
+    file >> n;
+    REQUIRE(n == result);
     while (!file.eof())
     {
         redir.redirect();

@@ -10,5 +10,6 @@ void ejercicio_2();
 void ejercicio_3();
 void ejercicio_4();
 void ejercicio_5();
+int minima_multiplicacion(int n);
 
 #endif //POO2_UNIT1_WEEK_2_2020_2_SP3_H

@@ -28,4 +28,6 @@ void ejercicio_5() {
     // Completar
 }
 
-
+int minima_multiplicacion(int n) {
+    return n;
+}
