@@ -201,7 +201,7 @@ Diseñe la función `minima_multiplicación` que cuente la cantidad de veces que
 
 Ejemplo: 
 
-- El número `39` debe multiplicarse 3 veces 1)`3*9 == 27` 2)`2*4 == 14` 3)`1*4 == 3`.  
+- El número `39` debe multiplicarse 3 veces 1)`3*9 == 27` 2)`2*7 == 14` 3)`1*4 == 3`.  
 - El número `3`  debe multiplicarse 0 veces debido a que tiene un dígito.  
 - El número `999`  debe multiplicarse 4 veces 1)`9*9*9 == 729` 2)`7*2*9 == 126` 3)`1*2*6 == 12`  4)`1*2 == 2` .  
 
