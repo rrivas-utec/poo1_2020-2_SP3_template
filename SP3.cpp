@@ -10,6 +10,7 @@ using namespace std;
 
 void ejercicio_1() {
     // Completar
+    
 }
 
 void ejercicio_2() {

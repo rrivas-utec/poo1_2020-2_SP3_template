@@ -18,6 +18,7 @@ Escribir un programa que dado un número de `n` dígitos lo imprima al reves (ut
 
 ```cpp
 No utilizar etiquetas
+El número n es un número grande.
 ```
 
 #### Output Format
